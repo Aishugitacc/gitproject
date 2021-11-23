@@ -10,6 +10,10 @@ public class GitSample {
 		System.out.println("Aishwarya");
 
 	}
+    private void empphno() {
+		System.out.println("873246398398");
+
+	}
     public static void main(String[] args) {
 		GitSample s= new GitSample();
 		s.empid();
